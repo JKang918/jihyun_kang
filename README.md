@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a current graduate student at Georgia Tech, majoring in Operations Research.
+I am a prospective graduate student at Georgia Tech, majoring in Operations Research.
 
 Previously, I was a rating analyst at a credit rating agency, where I spent over four years delving into financial contracts to evaluate the structural integrity of complex financial instruments. My areas of expertise during my time at the agency included securitized financial instruments and credit derivatives.
 
