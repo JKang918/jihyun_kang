@@ -9,8 +9,11 @@ After observing firsthand the increasing emphasis on computer and quantitative s
 ### Languages and Tools
 
 Python: +++
+
 R:      ++
+
 C++:    ++
+
 STATA:  +
 
 ### Contact Information
