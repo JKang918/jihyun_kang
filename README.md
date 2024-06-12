@@ -6,15 +6,31 @@ Previously, I had been a rating analyst at a credit rating agency, where I spent
 
 After observing firsthand the increasing emphasis on computer and quantitative skills, I decided to take the plunge; leave my previous job and focus on enhancing those skills as a full-time graduate student.
 
+### Coursework
+
+#### Optimization
+- Deterministic Optimization
+- Computational Methods in Optimization
+
+#### Math
+- Mathematics of Operations Research
+- Numerical Linear Algebra
+
+#### Computing
+- Simulation
+- Computational Data Analysis: Learning, Mining, and Computation
+
+#### Statistics
+- Probabilistic Models and Their Applications
+- Statistical Modeling and Regression Analysis
+- Time Series Analysis
+- Computational Statistics
+
+
 ### Languages and Tools
 
-Python: +++
-
-R:      ++
-
-C++:    ++
-
-STATA:  +
+Main: Python, SQL\
+Working knowledge: C++, R, STATA
 
 ### Contact Information
 
