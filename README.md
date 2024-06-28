@@ -8,23 +8,12 @@ After observing firsthand the increasing emphasis on computer and quantitative s
 
 ### Coursework
 
-#### Optimization
-- Deterministic Optimization
-- Computational Methods in Optimization
-
-#### Math
-- Mathematics of Operations Research
-- Numerical Linear Algebra
-
-#### Computing
 - Simulation
 - Computational Data Analysis: Learning, Mining, and Computation
-
-#### Statistics
-- Probabilistic Models and Their Applications
 - Statistical Modeling and Regression Analysis
 - Time Series Analysis
 - Computational Statistics
+- Data Mining and Statistical Learning
 
 
 ### Languages and Tools
