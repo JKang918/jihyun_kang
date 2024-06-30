@@ -6,7 +6,7 @@ Previously, I had been a rating analyst at a credit rating agency, where I spent
 
 After observing firsthand the increasing emphasis on computer and quantitative skills, I decided to take the plunge; leave my previous job and focus on enhancing those skills as a full-time graduate student.
 
-### Coursework
+### Relevant Coursework
 
 - Simulation
 - Computational Data Analysis: Learning, Mining, and Computation
