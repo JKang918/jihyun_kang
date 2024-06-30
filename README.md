@@ -23,6 +23,4 @@ Working knowledge: C++, R, STATA
 
 ### Contact Information
 
-For more information, you can contact me via:
-
 + Email: [Jihyun Kang](jihyun.kang.0110@gmail.com, "jihyun.kang.0110@gmail.com")
